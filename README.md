@@ -18,5 +18,8 @@ I am using Python 3.6.1 for this analysis. You need to install the folowing Pyth
 
 I have used Jupyter Notebook for the data exploration. 
 
+# Data: 
+You can see the data in 'Iris.csv' file.
+
 # Code:
 The exploratory data analysis file is in 'iris_notebook.ipynb' file. 
