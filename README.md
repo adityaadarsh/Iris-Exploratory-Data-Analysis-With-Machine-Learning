@@ -1,5 +1,5 @@
 # Iris-Exploratory-Data-Analysis with Machine Learning
-It contains visualizations and exploratory data analysis of the legendary Iris Species Dataset. This repository primarily exploratory visual analysis of the Iris Data. I have tried my best hope you like it.
+It contains exploratory data analysis and machine learning on the legendary Iris Species Dataset. This repository primarily exploratory visual analysis of the Iris Data. I have tried my best hope you like it.
 
 # To download the dataset folllow this link: https://www.kaggle.com/uciml/iris/downloads/iris-species.zip
 
