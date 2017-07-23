@@ -22,4 +22,4 @@ I have used Jupyter Notebook for the data exploration.
 You can see the data in 'Iris.csv' file.
 
 # Code:
-The exploratory data analysis file is in 'iris_notebook.ipynb' file. 
+The complete code is in the 'iris_notebook.ipynb' file. 
